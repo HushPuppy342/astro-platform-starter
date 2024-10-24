@@ -10,20 +10,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^5.2.0",
-    "@astrojs/react": "^3.3.0",
-    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/netlify": "^5.5.4",
+    "@astrojs/react": "^3.6.2",
+    "@astrojs/tailwind": "^5.1.2",
     "@fontsource/inter": "^5.0.18",
     "@netlify/blobs": "^8.0.1",
     "@netlify/functions": "^2.8.2",
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
-    "astro": "^4.6.2",
+    "astro": "^4.16.7",
     "blobshape": "^1.0.0",
-<<<<<<< HEAD
     "decap-cms-app": "^3.3.3",
-=======
->>>>>>> 873b61ab0e6f3683a8db10ae5ab6ac4175caf485
     "marked": "^13.0.0",
     "marked-shiki": "^1.1.0",
     "react": "^18.2.0",
