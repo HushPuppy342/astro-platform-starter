@@ -1,4 +1,5 @@
-const { init } = require('decap-cms-app');
+// const { init } = require('decap-cms-app'); # old code
+import { init } from 'decap-cms-app';
 
 // Initialize the CMS object
 init();
