@@ -5,3 +5,10 @@ backend:
 
 media_folder: "public/images/uploads"
 public_folder: "/src/assets"
+collections:
+  - type: Page
+    label: SchoolBundle
+    folders:
+      - path: "pages"
+    media_folder: "src/pages"
+
